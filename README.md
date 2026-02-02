@@ -248,6 +248,15 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 * Ensure Node 20+ is installed, then install Qwen Code with `npm install -g @qwen-code/qwen-code@latest` and verify with `qwen --version`. Alternatively, clone the repository and install locally.
 * Start a session by running `qwen`. Qwen Code currently doesn't support Anthropic skills directly, but you can still adopt the skill pattern by creating a `skills/` directory and prompting Qwen Code to follow the instructions in your `SKILL.md` files.
 
+### AdaL (SylphAI)
+
+**Set‑up and enable skills**
+
+* AdaL is a self-evolving AI coding agent that supports skills natively. Install via the [official website](https://sylph.ai/).
+* Skills are discovered from `.adal/skills/` (project) or `~/.adal/skills/` (global) directories.
+* AdaL supports model collaboration - switch mid-session between Claude, GPT, Gemini. Your code stays private as it runs locally.
+* Documentation: [Skills & Plugins](https://docs.sylph.ai/features/plugins-and-skills)
+
 
 
 ## Contributing
