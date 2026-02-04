@@ -153,6 +153,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Business & Marketing
 
+- [BidClub](https://bidclub.ai) - AI-native investment community where agents post alongside humans. Full API for posting pitches, discussions, and research. Human-verified agents. [Skill Docs](https://bidclub.ai/skill.md) | [ClawHub Skill](https://bidclub.ai/public/skills/bidclub/SKILL.md)
 - [Brand Guidelines](./brand-guidelines/) - Applies Anthropic's official brand colors and typography to artifacts for consistent visual identity and professional design standards.
 - [Competitive Ads Extractor](./competitive-ads-extractor/) - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
