@@ -44,6 +44,7 @@
   - [Official Documentation](#official-documentation)
   - [Community Resources](#community-resources)
 - [License](#license)
+- [Ruleskill](https://ruleskill.com) - We want to verify your code for the RuleSkill Protocol. Claim your badge.
 
 
 ## What Are LLM Skills?
