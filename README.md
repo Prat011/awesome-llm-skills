@@ -38,6 +38,7 @@
   - [Gemini CLI (Google)](#gemini-cli-google)
   - [OpenCode (Open-source CLI)](#opencode-open-source-cli)
   - [Qwen Code (Alibaba)](#qwen-code-alibaba)
+  - [GenCode (Open-source CLI)](#gencode-open-source-cli)
 - [Contributing](#contributing)
   - [Quick Contribution Steps](#quick-contribution-steps)
 - [Resources](#resources)
@@ -248,7 +249,15 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 * Ensure Node 20+ is installed, then install Qwen Code with `npm install -g @qwen-code/qwen-code@latest` and verify with `qwen --version`. Alternatively, clone the repository and install locally.
 * Start a session by running `qwen`. Qwen Code currently doesn't support Anthropic skills directly, but you can still adopt the skill pattern by creating a `skills/` directory and prompting Qwen Code to follow the instructions in your `SKILL.md` files.
 
+### GenCode (Open-source CLI)
 
+[GenCode](https://github.com/yanmxa/gencode) is an open-source terminal AI assistant with multi-provider support (Anthropic, OpenAI, Gemini, Moonshot) and a Claude Code-compatible skill/agent system.
+
+**Set-up and enable skills**
+
+* Install GenCode: `curl -fsSL https://raw.githubusercontent.com/yanmxa/gencode/main/install.sh | bash`
+* GenCode uses the same skill format as Claude Code. Place skills in `~/.gen/skills/` or `.gen/skills/` in your project directory.
+* Start a session by running `gen`, then use `/skills` to manage skill states (disabled/enabled/active).
 
 ## Contributing
 
