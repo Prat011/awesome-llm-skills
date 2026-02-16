@@ -189,6 +189,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 ### Collaboration & Project Management
 
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
+- [pm-skills](https://github.com/product-on-purpose/pm-skills) - A library of 24 product management agent skills covering discovery, definition, delivery, and optimization following the agentskills.io specification. *By [@product-on-purpose](https://github.com/product-on-purpose)*
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
 
