@@ -145,6 +145,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 
+- [OpenPaw](https://github.com/daxaur/openpaw) - Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills including Telegram, Discord, Obsidian, and daily briefings. No daemon, no cloud, MIT licensed. *By [@daxaur](https://github.com/daxaur)*
+
 ### Data & Analysis
 
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
