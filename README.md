@@ -185,6 +185,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Raffle Winner Picker](./raffle-winner-picker/) - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
+- [OpenPaw](https://github.com/daxaur/openpaw) - Turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more. Install via `npx pawmode`. *By [@daxaur](https://github.com/daxaur)*
 
 ### Collaboration & Project Management
 
