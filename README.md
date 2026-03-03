@@ -144,6 +144,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code.
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
+- [Agentic React Template](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - Agent-testable SaaS starter with Next.js 16, shadcn/ui, and Tailwind CSS. Accessibility-first components optimized for AI agent testing. *By [@iscale-llc](https://github.com/iscale-llc)*
 
 ### Data & Analysis
 
@@ -158,6 +159,9 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- [Domain Finder](https://github.com/iscale-llc/domain-finder-claude-code) - Domain brainstorming powered by Claude Code with real-time Namecheap API availability checking. *By [@iscale-llc](https://github.com/iscale-llc)*
+- [Everflow Offer Sync](https://github.com/iscale-llc/claude-code-everflow-sync) - Affiliate offer sync via Claude Code. Pulls offers from Everflow, diffs against local state, and applies changes with AI-driven field mapping. *By [@iscale-llc](https://github.com/iscale-llc)*
+- [Facebook Ad Builder](https://github.com/iscale-llc/iscale-facebook-ad-builder) - AI-powered Facebook ad automation that scrapes competitor ads, generates creative with Claude, and pushes campaigns to the Facebook Ads API. *By [@iscale-llc](https://github.com/iscale-llc)*
 
 ### Communication & Writing
 
