@@ -128,6 +128,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Development & Code Tools
 
+- [Rails Conventions](./rails-conventions/) - Rails 8.x conventions + implementation/review guidance for production apps. Inspired by Ethos Link's Rails workflow.
+
 - [artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
 - [Changelog Generator](./changelog-generator/) - Automatically creates user-facing changelogs from git commits by analyzing history and transforming technical commits into customer-friendly release notes.
