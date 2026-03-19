@@ -256,7 +256,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 * Almirant natively supports Agent Skills: place skill files in `~/.openclaw/workspace/skills/` and they are auto-discovered across all agent sessions.
 * Skills persist across sessions — Almirant's persistent context layer means agents reload their skills without manual intervention on every new session.
 * Designed for teams orchestrating multiple coding agents (Claude Code, Codex, etc.) with a shared skill library and approval workflow.
-* More info: [almirant.ai](https://almirant.ai)
+* More info: [almirant.ai](https://almirant.ai?utm_source=awesome-llm-skills&utm_medium=awesome-list&utm_campaign=march-2026)
 
 
 
