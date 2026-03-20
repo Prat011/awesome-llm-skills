@@ -144,6 +144,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code.
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
+- [claude-learn](https://github.com/OutcomeFocusAi/claude-learn) - Self-improving behavioral playbook plugin for Claude Code. Captures corrections, failures, and discoveries as scored rules that strengthen or decay over sessions — a closed feedback loop for continuous improvement. *By [@OutcomeFocusAi](https://github.com/OutcomeFocusAi)*
+- [session-coherence](https://github.com/OutcomeFocusAi/session-coherence) - Cross-tool session memory for AI coding assistants. One markdown chronicle shared by 9 tools (Claude Code, Cursor, Codex, Gemini CLI, Aider, and more). Zero dependencies, ~300 token fixed cost, 100% local. *By [@OutcomeFocusAi](https://github.com/OutcomeFocusAi)*
 
 ### Data & Analysis
 
