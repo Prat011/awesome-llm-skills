@@ -141,7 +141,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) - Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.
 - [Skill Creator](./skill-creator/) - Provides guidance for creating effective Claude Skills that extend capabilities with specialized knowledge, workflows, and tool integrations.
 - [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Automatically converts any documentation website into a Claude AI skill in minutes. *By [@yusufkaraaslan](https://github.com/yusufkaraaslan)*
-- [Skillfold](https://github.com/byronxlg/skillfold) - YAML pipeline compiler for multi-agent teams. Compose skills, wire typed team flows, and compile to standard SKILL.md files. Works with Claude Code, Codex, Cursor, Gemini CLI, and 28 more platforms.
+- [Skillfold](https://github.com/byronxlg/skillfold) - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into SKILL.md files for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf. *By [@byronxlg](https://github.com/byronxlg)*
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code.
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
@@ -204,7 +204,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Claude Code (Anthropic)
 
-**Set‑up and enable skills**
+**Set-up and enable skills**
 
 * **Installation:** Ensure Node 20+ and Visual Studio Code are installed. Claude Code enhances Claude's coding capabilities with runtime access, terminal support, and code generation.
 * **Getting Started:** Launch Claude Code from VS Code or terminal. Claude Code automatically discovers skills from `.claude/skills/` (project) or `~/.claude/skills/` (user) directories.
@@ -212,7 +212,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Claude Desktop (Anthropic)
 
-**Set‑up and enable skills**
+**Set-up and enable skills**
 
 * Claude Desktop provides a native application experience for Claude across Windows, macOS, and Linux platforms.
 * Access skills through Settings → Capabilities → Skills. Upload custom skills as ZIP files or select from available community skills.
@@ -220,7 +220,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Codex CLI (OpenAI)
 
-**Set‑up and enable skills**
+**Set-up and enable skills**
 
 * OpenAI's Codex powers GitHub Copilot and can be accessed via CLI tools for code generation and automation.
 * While Codex doesn't natively support Anthropic's Skills format, you can adapt skills by including instructions in your prompts or configuration files.
@@ -228,23 +228,23 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Gemini CLI (Google)
 
-**Set‑up and enable skills**
+**Set-up and enable skills**
 
-* Install Node 20+ and then install Gemini CLI via `npm install -g @google/gemini-cli` or run it on‑demand with `npx @google/gemini-cli`.
-* Run `gemini` and sign in with your Google account; a browser window will open for authentication. Gemini CLI currently doesn't have built‑in support for Anthropic skills, but you can follow skill instructions by loading your own `SKILL.md` file and referencing it in prompts. Use the `@` symbol to upload files containing your skill instructions.
+* Install Node 20+ and then install Gemini CLI via `npm install -g @google/gemini-cli` or run it on-demand with `npx @google/gemini-cli`.
+* Run `gemini` and sign in with your Google account; a browser window will open for authentication. Gemini CLI currently doesn't have built-in support for Anthropic skills, but you can follow skill instructions by loading your own `SKILL.md` file and referencing it in prompts. Use the `@` symbol to upload files containing your skill instructions.
 
 ### OpenCode (Open-source CLI)
 
-**Set‑up and enable skills**
+**Set-up and enable skills**
 
-* Install OpenCode with a one‑line script: `curl -fsSL https://opencode.ai/install | bash`.
+* Install OpenCode with a one-line script: `curl -fsSL https://opencode.ai/install | bash`.
 * Run `opencode auth login` and choose your provider (e.g., Cerebras) to configure your API key.
 * Start the interface with `opencode` and initialize your project context using `/init`.
 * OpenCode doesn't natively load Anthropic skills, but you can place a `skills/` folder in your project and ask OpenCode to read the `SKILL.md` file; this approximates skills functionality and lets you reuse instructions across tools.
 
 ### Qwen Code (Alibaba)
 
-**Set‑up and enable skills**
+**Set-up and enable skills**
 
 * Ensure Node 20+ is installed, then install Qwen Code with `npm install -g @qwen-code/qwen-code@latest` and verify with `qwen --version`. Alternatively, clone the repository and install locally.
 * Start a session by running `qwen`. Qwen Code currently doesn't support Anthropic skills directly, but you can still adopt the skill pattern by creating a `skills/` directory and prompting Qwen Code to follow the instructions in your `SKILL.md` files.
