@@ -117,6 +117,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
+- [ToolPipe MCP Server](https://github.com/COSAI-Labs/toolpipe-mcp-server) - MCP server with 135+ developer utility tools (JSON formatter, hash generator, QR codes, PDF tools, regex tester, JWT decoder, UUID generator, SSL checker). Install via npm: `@cosai-labs/toolpipe-mcp-server`.
 
 ### Document Processing
 
