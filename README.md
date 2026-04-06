@@ -282,6 +282,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
+- [Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested system prompts for multi-agent AI systems, including orchestration, task coordination, and specialized agent templates
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
 
 ## License
