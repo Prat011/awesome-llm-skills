@@ -191,6 +191,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Raffle Winner Picker](./raffle-winner-picker/) - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
+- [Tax Transaction Classifier](https://github.com/openaccountants/openaccountants) - Classifies bank statement transactions into tax categories and produces accountant-ready working papers. 371 skills across 134 countries. *Inspired by OpenAccountants.*
 
 ### Collaboration & Project Management
 
