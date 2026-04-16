@@ -128,6 +128,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Development & Code Tools
 
+- [Agent Tool Discovery](./agent-tool-discovery/) - Discover AI agent tools, MCP servers, and agent-ready APIs by searching the Not Human Search index of 8,600+ sites with agentic readiness scoring.
 - [artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) - A Claude Code plugin for specification-driven development that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration and dual-model adversarial review. *By [@JuliusBrussee](https://github.com/JuliusBrussee)*
@@ -159,6 +160,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Business & Marketing
 
+- [AI Job Search](./ai-job-search/) - Search and analyze AI/ML job listings from the AI Dev Jobs board with 5,300+ positions via REST API and MCP server.
 - [Brand Guidelines](./brand-guidelines/) - Applies Anthropic's official brand colors and typography to artifacts for consistent visual identity and professional design standards.
 - [Competitive Ads Extractor](./competitive-ads-extractor/) - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
