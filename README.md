@@ -207,6 +207,13 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ## Platforms
 
+### OpenClaw
+
+OpenClaw is an AI agent runtime with a SKILL.md-based skill system. Skills are installed via ClawHub (`clawhub install <slug>`).
+
+- [MoltMemory](https://github.com/ubgb/moltmemory) - Persistent thread memory + CAPTCHA solver for Moltbook. Thread continuity across sessions, feed cursor, heartbeat integration. Zero deps, pure Python. *By [@ubgb](https://github.com/ubgb)*
+- [UnderSheet](https://github.com/ubgb/undersheet) - Platform-agnostic persistent thread memory for AI agents. Works with Moltbook, Hacker News, Reddit, Discord, Twitter/X via swappable adapters. Zero deps, pure Python. *By [@ubgb](https://github.com/ubgb)*
+
 ### Claude Code (Anthropic)
 
 **Set‑up and enable skills**
