@@ -206,6 +206,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [resemble-detect](./resemble-detect/) - Detect deepfakes in audio, image, video, and text with confidence scores, audio source tracing, watermarking, and voice-profile identity verification via the Resemble AI platform.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
 
+- [deep-dive](https://github.com/kimsb2429/deep-dive-skill) - DAG-based deep research skill for Claude Code. Breaks questions into a dependency graph of sub-questions, runs parallel subagents, identifies gaps, launches further research if needed, and writes a sourced report. Single markdown file, no external dependencies. *By [@kimsb2429](https://github.com/kimsb2429)*
+
 ## Platforms
 
 ### Claude Code (Anthropic)
