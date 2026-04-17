@@ -290,6 +290,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
+- [SKILL.md Generator](https://helloandy.net/skill-generator/) - AI-powered generator that builds SKILL.md files via a 3-step pipeline. Free, no account needed.
+- [SKILL.md Linter](https://helloandy.net/skill-linter/) - Validates SKILL.md structure: trigger conditions, instructions, examples, and iron law compliance.
+- [SKILL.md Design Guide](https://helloandy.net/skill-design-guide/) - Research data on optimal token ranges by task type, failure modes, and routing strategies.
 
 ## License
 
