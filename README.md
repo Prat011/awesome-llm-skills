@@ -174,6 +174,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [Meeting Insights Analyzer](./meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
 - [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
+- [ru-text](https://github.com/talkstream/ru-text) - Russian text quality with ~1,040 rules for typography, info-style, editorial, UX writing, and business correspondence. Cross-platform: Claude Code, Codex CLI, Gemini CLI, Cursor. *By [@talkstream](https://github.com/talkstream)*
 
 ### Creative & Media
 
