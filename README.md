@@ -172,6 +172,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
 - [Content Research Writer](./content-research-writer/) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, and providing section-by-section feedback.
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
+- [hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) - Research-backed Hinge dating profile optimization with an 8-phase process covering discovery interview, game theory analysis, photo strategy, and copy creation. Based on 45+ peer-reviewed sources on dating app behavior and signaling theory.
 - [Meeting Insights Analyzer](./meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
 - [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
 
@@ -299,3 +300,4 @@ This repository is licensed under the Apache License 2.0.
 Individual skills may have different licenses - please check each skill's folder for specific licensing information.
 
 ---
+
