@@ -177,6 +177,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Creative & Media
 
+- [BibiGPT](https://github.com/JimmyLv/bibigpt-skill) - AI-powered video, audio & podcast summarization. Install: `npx skills add JimmyLv/bibigpt-skill`. Also available as remote MCP server.
 - [Canvas Design](./canvas-design/) - Creates beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles for posters, designs, and static pieces.
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [Image Enhancer](./image-enhancer/) - Improves image and screenshot quality by enhancing resolution, sharpness, and clarity for professional presentations and documentation.
