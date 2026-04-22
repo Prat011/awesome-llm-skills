@@ -206,6 +206,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [resemble-detect](./resemble-detect/) - Detect deepfakes in audio, image, video, and text with confidence scores, audio source tracing, watermarking, and voice-profile identity verification via the Resemble AI platform.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
+- [SkillFortify](https://github.com/qualixar/skillfortify) - Formal verification for AI agent skills. Scans Claude Code skills and MCP servers across 22 frameworks with 100% precision on 540-skill benchmark. Supply chain security via ASBOM. `pip install skillfortify && skillfortify scan`. Backed by [arXiv:2603.00195](https://arxiv.org/abs/2603.00195).
 
 ## Platforms
 
