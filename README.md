@@ -256,6 +256,16 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 * Ensure Node 20+ is installed, then install Qwen Code with `npm install -g @qwen-code/qwen-code@latest` and verify with `qwen --version`. Alternatively, clone the repository and install locally.
 * Start a session by running `qwen`. Qwen Code currently doesn't support Anthropic skills directly, but you can still adopt the skill pattern by creating a `skills/` directory and prompting Qwen Code to follow the instructions in your `SKILL.md` files.
 
+### Almirant
+
+**Set‑up and enable skills**
+
+* Install via `npm install -g almirant` and initialize with `almirant init`.
+* Almirant natively supports Agent Skills: place skill files in `~/.openclaw/workspace/skills/` and they are auto-discovered across all agent sessions.
+* Skills persist across sessions — Almirant's persistent context layer means agents reload their skills without manual intervention on every new session.
+* Designed for teams orchestrating multiple coding agents (Claude Code, Codex, etc.) with a shared skill library and approval workflow.
+* More info: [almirant.ai](https://almirant.ai?utm_source=awesome-llm-skills&utm_medium=awesome-list&utm_campaign=march-2026)
+
 
 
 ## Contributing
