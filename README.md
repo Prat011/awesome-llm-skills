@@ -291,6 +291,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
+- [skills CLI](https://github.com/dmgrok/agent_skills_directory) - npm-like package manager for LLM skills. Aggregates 177+ skills from 24 providers. Install: `brew install dmgrok/tap/skills`. [Browse online →](https://dmgrok.github.io/agent_skills_directory/)
 
 ## License
 
