@@ -153,6 +153,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Business & Marketing
 
+- [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions (navigate, fill forms, click buttons). 50+ languages, <700ms latency, one-line embed. Free tier available.
 - [Brand Guidelines](./brand-guidelines/) - Applies Anthropic's official brand colors and typography to artifacts for consistent visual identity and professional design standards.
 - [Competitive Ads Extractor](./competitive-ads-extractor/) - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
