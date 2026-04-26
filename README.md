@@ -128,6 +128,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Development & Code Tools
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
 - [artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) - A Claude Code plugin for specification-driven development that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration and dual-model adversarial review. *By [@JuliusBrussee](https://github.com/JuliusBrussee)*
