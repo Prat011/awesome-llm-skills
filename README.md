@@ -172,6 +172,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
 - [Content Research Writer](./content-research-writer/) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, and providing section-by-section feedback.
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
+- [humanize-chinese](https://github.com/voidborne-d/humanize-chinese) - Detects AI-generated Chinese text and rewrites it across 7 register-specific styles (academic, casual, Zhihu, Xiaohongshu, WeChat, literary, Weibo). 20+ detection categories with weighted 0–100 scoring; specialized academic AIGC reduction tuned for CNKI / VIP / Wanfang. Pure Python, zero dependencies. *By [@voidborne-d](https://github.com/voidborne-d)*
 - [Meeting Insights Analyzer](./meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
 - [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
 
