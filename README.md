@@ -292,6 +292,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — AI monitoring dashboard for AI agents and LLMs (Vue3 + Node.js, open source). [![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)](https://github.com/flik2002/openclaw-monitor-frontend)
 ## License
 
 This repository is licensed under the Apache License 2.0.
