@@ -1,0 +1,4 @@
+interface:
+  display_name: "SGR · Pydantic Structured Outputs"
+  short_description: "Schema-Guided Reasoning for strict LLM JSON"
+  default_prompt: "Use $schema-guided-reasoning-pydantic to design Pydantic schemas with Schema-Guided Reasoning (Cascade, Routing, Cycle) and the right provider transport rules."
