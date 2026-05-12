@@ -185,7 +185,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Video Downloader](./video-downloader/) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival with support for various formats and quality options.
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 
-### Productivity & Organization
+### Productivity
+- [Qonspekt](https://github.com/Qonspekt/qonspekt) - Article to atomic Obsidian notes via Claude AI. BYOK, no backend. [Live](https://qonspekt.github.io/qonspekt/) & Organization
 
 - [File Organizer](./file-organizer/) - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
 - [Invoice Organizer](./invoice-organizer/) - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
