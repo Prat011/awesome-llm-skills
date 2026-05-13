@@ -156,6 +156,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger.
+- [ai-investment-skills](https://github.com/tellmefrankie/ai-investment-skills) - Six daily skills for individual investors: options flow scanner with lottery-call filtering, stop-loss monitor, earnings risk check, sector rotation signal, and real-vs-lottery position classifier. Works with Claude Code, Cursor, and Codex CLI. Free tier included. *By [@tellmefrankie](https://github.com/tellmefrankie)*
 
 ### Business & Marketing
 
