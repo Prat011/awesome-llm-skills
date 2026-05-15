@@ -150,6 +150,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
+- [recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect) - Designs composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework popularized by xAI's open-sourced X For You algorithm. Walks the agent through eight clarifying steps and emits runnable scaffolds for Strapi v5 (TypeScript), Go (with generics), or Python/FastAPI. *By [@mturac](https://github.com/mturac)*
 
 ### Data & Analysis
 
