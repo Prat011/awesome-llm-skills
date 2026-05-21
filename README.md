@@ -195,6 +195,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Collaboration & Project Management
 
+- [Aicoo Skills](https://www.aicoo.io) - AI COO agent skills for Claude Code — share your agent via secure links, sync workspace context, agent-to-agent communication via Pulse Protocol, autonomous heartbeat loops, and Aicoo Square discovery board. *By [@waterdoog](https://github.com/waterdoog)*
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
