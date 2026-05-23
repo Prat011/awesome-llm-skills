@@ -187,6 +187,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Productivity & Organization
 
+- [FlowHunt Skill](https://github.com/heyneuron/flowhunt-skill) - Automation discovery audit that walks users through a 5-question workflow intake, audits connected sources (Gmail, Calendar, Slack, task trackers), and produces a markdown report of automation opportunities. Install: `npx skills add heyneuron/flowhunt-skill`. *By [@heyneuron](https://github.com/heyneuron)*
 - [File Organizer](./file-organizer/) - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
 - [Invoice Organizer](./invoice-organizer/) - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
 - [Raffle Winner Picker](./raffle-winner-picker/) - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
