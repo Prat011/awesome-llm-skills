@@ -1,4 +1,4 @@
-<h1 align="center">Awesome LLM Skills</h1>
+﻿<h1 align="center">Awesome LLM Skills</h1>
 
 <p align="center">
   <a href="url">
@@ -98,12 +98,12 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 4. **Load the skill**
 
-   * **Claude (web or Desktop):** Upload a ZIP via **Settings → Capabilities → Skills** → **Upload skill**. 
+   * **Claude (web or Desktop):** Upload a ZIP via **Settings ? Capabilities ? Skills** ? **Upload skill**. 
    * **Claude Code (terminal):** Place the folder under `.claude/skills/` (project) or `~/.claude/skills/` (user). Claude Code discovers skills from these locations.
-   * **Other CLIs (Codex, Gemini, OpenCode, Qwen Code):** They don't use Anthropic's Skills format natively—reference your `SKILL.md` in prompts (Gemini CLI supports `@` file/context attachments).
+   * **Other CLIs (Codex, Gemini, OpenCode, Qwen Code):** They don't use Anthropic's Skills format natively?reference your `SKILL.md` in prompts (Gemini CLI supports `@` file/context attachments).
   
 5. **Use it**
-   Just ask in natural language, optionally mentioning the skill by name—for example:
+   Just ask in natural language, optionally mentioning the skill by name?for example:
    "Use the **Webapp Testing** skill to validate the checkout flow and generate `report.md`." Claude can auto-invoke relevant skills based on your request. 
 
 6. **(Optional) Kickstart a repo session in Claude Code**
@@ -211,7 +211,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Claude Code (Anthropic)
 
-**Set‑up and enable skills**
+**Set?up and enable skills**
 
 * **Installation:** Ensure Node 20+ and Visual Studio Code are installed. Claude Code enhances Claude's coding capabilities with runtime access, terminal support, and code generation.
 * **Getting Started:** Launch Claude Code from VS Code or terminal. Claude Code automatically discovers skills from `.claude/skills/` (project) or `~/.claude/skills/` (user) directories.
@@ -219,15 +219,15 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Claude Desktop (Anthropic)
 
-**Set‑up and enable skills**
+**Set?up and enable skills**
 
 * Claude Desktop provides a native application experience for Claude across Windows, macOS, and Linux platforms.
-* Access skills through Settings → Capabilities → Skills. Upload custom skills as ZIP files or select from available community skills.
+* Access skills through Settings ? Capabilities ? Skills. Upload custom skills as ZIP files or select from available community skills.
 * Desktop app supports all Claude features including file uploads, code generation, and real-time collaboration.
 
 ### Codex CLI (OpenAI)
 
-**Set‑up and enable skills**
+**Set?up and enable skills**
 
 * OpenAI's Codex powers GitHub Copilot and can be accessed via CLI tools for code generation and automation.
 * While Codex doesn't natively support Anthropic's Skills format, you can adapt skills by including instructions in your prompts or configuration files.
@@ -235,23 +235,23 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Gemini CLI (Google)
 
-**Set‑up and enable skills**
+**Set?up and enable skills**
 
-* Install Node 20+ and then install Gemini CLI via `npm install -g @google/gemini-cli` or run it on‑demand with `npx @google/gemini-cli`.
-* Run `gemini` and sign in with your Google account; a browser window will open for authentication. Gemini CLI currently doesn't have built‑in support for Anthropic skills, but you can follow skill instructions by loading your own `SKILL.md` file and referencing it in prompts. Use the `@` symbol to upload files containing your skill instructions.
+* Install Node 20+ and then install Gemini CLI via `npm install -g @google/gemini-cli` or run it on?demand with `npx @google/gemini-cli`.
+* Run `gemini` and sign in with your Google account; a browser window will open for authentication. Gemini CLI currently doesn't have built?in support for Anthropic skills, but you can follow skill instructions by loading your own `SKILL.md` file and referencing it in prompts. Use the `@` symbol to upload files containing your skill instructions.
 
 ### OpenCode (Open-source CLI)
 
-**Set‑up and enable skills**
+**Set?up and enable skills**
 
-* Install OpenCode with a one‑line script: `curl -fsSL https://opencode.ai/install | bash`.
+* Install OpenCode with a one?line script: `curl -fsSL https://opencode.ai/install | bash`.
 * Run `opencode auth login` and choose your provider (e.g., Cerebras) to configure your API key.
 * Start the interface with `opencode` and initialize your project context using `/init`.
 * OpenCode doesn't natively load Anthropic skills, but you can place a `skills/` folder in your project and ask OpenCode to read the `SKILL.md` file; this approximates skills functionality and lets you reuse instructions across tools.
 
 ### Qwen Code (Alibaba)
 
-**Set‑up and enable skills**
+**Set?up and enable skills**
 
 * Ensure Node 20+ is installed, then install Qwen Code with `npm install -g @qwen-code/qwen-code@latest` and verify with `qwen --version`. Alternatively, clone the repository and install locally.
 * Start a session by running `qwen`. Qwen Code currently doesn't support Anthropic skills directly, but you can still adopt the skill pattern by creating a `skills/` directory and prompting Qwen Code to follow the instructions in your `SKILL.md` files.
