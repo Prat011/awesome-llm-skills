@@ -125,6 +125,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [pptx](https://github.com/anthropics/skills/tree/main/document-skills/pptx) - Read, generate, and adjust slides, layouts, templates.
 - [xlsx](https://github.com/anthropics/skills/tree/main/document-skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [Markdown to EPUB Converter](https://github.com/smerchek/claude-epub-skill) - Converts markdown documents and chat summaries into professional EPUB ebook files. *By [@smerchek](https://github.com/smerchek)*
+- [DOC2MATH](https://github.com/thebrierfox/doc2math-skill) - Extracts mathematical problem structures from documents (text, PDFs, research papers) into structured JSON: variables, operators, constraints, objectives, and uncertainty. Uses the Zero-Inference Protocol for grounded, hallucination-resistant extraction. *By [@thebrierfox](https://github.com/thebrierfox)*
 
 ### Development & Code Tools
 
