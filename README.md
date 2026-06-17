@@ -163,6 +163,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill) - Structured, evidence-based B2B software vendor evaluation skill. Engages vendor AI agents, scores vendors across 7 dimensions with transparent evidence tracking, and produces comparative scorecards with demo prep questions. Useful for procurement, RFP evaluation, and build-vs-buy decisions. *By [@salespeak-ai](https://github.com/salespeak-ai)*
 - [Competitive Ads Extractor](./competitive-ads-extractor/) - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
+- [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet/tree/master/skills/hermes-tweet) - Automates X/Twitter in Hermes Agent with safe-default exploration, read, and gated action tools. *By [@Xquik-dev](https://github.com/Xquik-dev)*
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
 
