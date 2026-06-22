@@ -100,10 +100,10 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
    * **Claude (web or Desktop):** Upload a ZIP via **Settings → Capabilities → Skills** → **Upload skill**. 
    * **Claude Code (terminal):** Place the folder under `.claude/skills/` (project) or `~/.claude/skills/` (user). Claude Code discovers skills from these locations.
-   * **Other CLIs (Codex, Gemini, OpenCode, Qwen Code):** They don't use Anthropic's Skills format natively—reference your `SKILL.md` in prompts (Gemini CLI supports `@` file/context attachments).
+   * **Other CLIs (Codex, Gemini, OpenCode, Qwen Code):** They don't use Anthropic's Skills format natively - reference your `SKILL.md` in prompts (Gemini CLI supports `@` file/context attachments).
   
 5. **Use it**
-   Just ask in natural language, optionally mentioning the skill by name—for example:
+   Just ask in natural language, optionally mentioning the skill by name - for example:
    "Use the **Webapp Testing** skill to validate the checkout flow and generate `report.md`." Claude can auto-invoke relevant skills based on your request. 
 
 6. **(Optional) Kickstart a repo session in Claude Code**
@@ -117,6 +117,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
+- [Xquik API Workflows](./xquik-api-workflows/) - Plans Xquik REST API, MCP, webhook, monitoring, extraction, and approval-gated X public data workflows.
 
 ### Document Processing
 
