@@ -296,6 +296,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
+- [ClaudeCodeManual](https://github.com/NickScherbakov/ClaudeCodeManual) - Free course on Claude Code's Workflow tool (multi-agent orchestration). Covers pipeline() vs parallel() barrier, loop-until-dry, adversarial verify patterns, budget-aware loops. 15 interactive chapters + 14 labs. Browser trainer, no install. Russian content, language-agnostic code.
 
 ## License
 
