@@ -215,6 +215,7 @@ By [Infrasity-Labs](https://github.com/Infrasity-Labs)
 ## Platforms
 
 ### Claude Code (Anthropic)
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — 4 Personal Context Artifact templates + 5 Claude Code skills (crm-everything, open-loops, watchers, morning-briefing, session-digest) that give AI agents deep personal context. Open-source, model-agnostic, one-command install.
 
 **Set‑up and enable skills**
 
