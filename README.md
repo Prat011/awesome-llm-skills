@@ -215,7 +215,6 @@ By [Infrasity-Labs](https://github.com/Infrasity-Labs)
 ## Platforms
 
 ### Claude Code (Anthropic)
-- **[Context Kit](https://github.com/JDDavenport/context-kit)** — 4 Personal Context Artifact templates + 5 Claude Code skills (crm-everything, open-loops, watchers, morning-briefing, session-digest) that give AI agents deep personal context. Open-source, model-agnostic, one-command install.
 
 **Set‑up and enable skills**
 
@@ -297,6 +296,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
+
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills (crm-everything, open-loops, watchers, morning-briefing, session-digest). Start every session context-full, not context-zero. MIT, one-command install.
 
 ## License
 
