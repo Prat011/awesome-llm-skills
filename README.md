@@ -293,6 +293,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ### Community Resources
 
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
+- [BundleDex](https://bundledex.net) - A curated directory of OKF (Open Knowledge Format) bundles for AI agents. 239 bundles indexed with search, categories, and an agent-friendly API.
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
