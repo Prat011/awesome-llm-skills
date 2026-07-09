@@ -117,6 +117,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
+- [SAGE Memory](https://github.com/l33tdawg/sage) - Persistent institutional memory for AI agents with BFT consensus. 4 validators vote on every memory, 13 MCP tools, runs locally. Works with Claude Code, Cursor, and any MCP client.
 
 ### Document Processing
 
