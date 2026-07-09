@@ -117,6 +117,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
+- [SwarmVault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) - Local-first RAG knowledge vault. Compiles raw sources (books, notes, transcripts, exports, datasets, slide decks, files, URLs, code) into a durable markdown wiki with a knowledge graph and a hybrid SQLite FTS plus embeddings index. Bundled MCP server (`npx -y @swarmvaultai/cli mcp`) exposes page search, page reads, source listing, query, ingest, compile, and lint tools. *By [@swarmclawai](https://github.com/swarmclawai)*
 
 ### Document Processing
 
@@ -145,6 +146,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) - Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.
 - [Skill Creator](./skill-creator/) - Provides guidance for creating effective Claude Skills that extend capabilities with specialized knowledge, workflows, and tool integrations.
 - [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Automatically converts any documentation website into a Claude AI skill in minutes. *By [@yusufkaraaslan](https://github.com/yusufkaraaslan)*
+- [SwarmClaw](https://github.com/swarmclawai/swarmclaw/blob/main/skills/swarmclaw.md) - Self-hosted runtime for autonomous AI agents. Multi-provider, MCP-native, with memory, runtime skills, delegation, schedules, and reviewed conversation-to-skill learning across OpenClaw gateways and other providers. Skill teaches the agent when and how to interact with a running SwarmClaw instance. *By [@swarmclawai](https://github.com/swarmclawai)*
 - [skill-optimizer](https://github.com/fastxyz/skill-optimizer) - CLI tool that benchmarks SDK, CLI, and MCP guidance docs across multiple LLMs using static action and argument matching. Measures whether models call the right tools with correct arguments. Iteratively rewrites docs until every configured model meets a PASS/FAIL score floor. CI-friendly, MIT licensed.
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code.
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
