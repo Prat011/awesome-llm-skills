@@ -117,6 +117,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
+- [SwarmVault](./swarmvault/) - Local-first RAG knowledge vault with built-in MCP server, knowledge graph, and hybrid SQLite FTS plus embeddings. Compiles books, notes, transcripts, code, and URLs into a durable markdown wiki.
 
 ### Document Processing
 
