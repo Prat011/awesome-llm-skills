@@ -211,6 +211,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing.
 By [Infrasity-Labs](https://github.com/Infrasity-Labs)
+- [marketingskills/seo](https://github.com/marketingskills/seo) - 20+ open-source SEO SKILL.md files that turn your AI agent into an SEO operator. Diagnose traffic decay, audit technical SEO, build content briefs, fix schema, and generate client reports. Install: `curl -fsSL marketingskills.net/seo | bash`.
+By [@coreyhaines31](https://github.com/coreyhaines31)
 
 ## Platforms
 
