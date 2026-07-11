@@ -175,6 +175,10 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Meeting Insights Analyzer](./meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
 - [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
 
+### Human Analysis & Psychology
+
+- [kampff](https://github.com/YangKangSung/kampff-skills) - Human spectrum analysis from text traces — worldview fit, alliance fit, ephemeris (temporal drift), and engage/caution/avoid distance with quoted evidence. spectrograph 7-layer protocol with optional HR and OSINT lenses. *By [@YangKangSung](https://github.com/YangKangSung)*
+
 ### Creative & Media
 
 - [Canvas Design](./canvas-design/) - Creates beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles for posters, designs, and static pieces.
