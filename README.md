@@ -184,6 +184,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Theme Factory](./theme-factory/) - Applies professional font and color themes to artifacts including slides, docs, reports, and HTML landing pages with 10 pre-set themes.
 - [Video Downloader](./video-downloader/) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival with support for various formats and quality options.
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
+- [Canvas Grid Engine](https://github.com/shuangying0001-beep/canvas-grid-engine) - 中文教育场景 Canvas 学习纸网格渲染引擎：一键生成 13 种练习纸网格（米字格/田字格/回宫格/四线三格/点阵/拼音标注等），汉字自动居中与换行、可导出打印；「Canvas 教育工具链」4 件套之一（另含 [SVG 零误差复刻](https://github.com/shuangying0001-beep/svg-to-canvas-replica) / [多页 PDF 导出](https://github.com/shuangying0001-beep/canvas-multipage-pdf) / [小程序 Canvas 视觉验证](https://github.com/shuangying0001-beep/miniprogram-canvas-verify)）。*By [@shuangying0001-beep](https://github.com/shuangying0001-beep)*
 
 ### Productivity & Organization
 
