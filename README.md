@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/prat011-awesome-llm-skills-badge.png)](https://mseep.ai/app/prat011-awesome-llm-skills)
+
 <h1 align="center">Awesome LLM Skills</h1>
 
 <p align="center">
