@@ -118,6 +118,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
 - [Taisly Agent Kit](https://github.com/taisly/agent) - Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
+- [UIZZE UI Research](https://uizze.com/ai-ui-slop?utm_source=github&utm_medium=awesome_list&utm_campaign=directory_awesome_llm_skills_v1&utm_content=skills_with_mcp) - Grounds Codex, Claude Code, and Cursor UI work in real web and iOS references, then validates the rendered result against a design contract through a hosted MCP workflow and installable Agent Skill.
 
 ### Document Processing
 
