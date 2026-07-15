@@ -206,6 +206,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [resemble-detect](./resemble-detect/) - Detect deepfakes in audio, image, video, and text with confidence scores, audio source tracing, watermarking, and voice-profile identity verification via the Resemble AI platform.
+- [sshepherd](./sshepherd/) - Operate a remote server over SSH (health checks, docker/systemd control, log tailing, config edits, read-only Postgres introspection, declarative deploys) without the agent ever seeing a password, private key, host, user, or port. *By [@Antheurus](https://github.com/Antheurus)*
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
 
 ### Developer Marketing Skills
