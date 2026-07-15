@@ -188,6 +188,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Productivity & Organization
 
+- [anywrite](./anywrite/) - Create, update, search, and organize notes, tasks, and PKM objects in a local Anytype space — all 52 endpoints of the Anytype local API through one compiled CLI binary, no MCP server. *By [@Antheurus](https://github.com/Antheurus)*
 - [File Organizer](./file-organizer/) - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
 - [Invoice Organizer](./invoice-organizer/) - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
 - [Raffle Winner Picker](./raffle-winner-picker/) - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
