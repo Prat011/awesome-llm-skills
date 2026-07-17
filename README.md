@@ -213,6 +213,10 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing.
 By [Infrasity-Labs](https://github.com/Infrasity-Labs)
 
+### Browser & Automation
+
+- [realbrowser-skill](https://github.com/Ceki-me/realbrowser-skill) - Rent real Chrome browsers for AI agents via MCP. Genuine browser fingerprints, residential IPs, DevTools protocol, SDKs for Python/JS. *By [Ceki](https://browser.ceki.me)*
+
 ## Platforms
 
 ### Claude Code (Anthropic)
