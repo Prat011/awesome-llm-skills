@@ -213,6 +213,9 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing.
 By [Infrasity-Labs](https://github.com/Infrasity-Labs)
 
+### Token & Cost Optimization
+- **[paleo](https://github.com/mocasus/paleo)**: Token-saving skills for LLM agents — compress output & context tokens (~54% median, reproducible benchmark) without rewriting code. Composable: `paleo`, `paleo-trim-context`, `paleo-skip-preamble`, `paleo-budget`. Works on Claude Code, Codex, Gemini CLI, OpenCode, Qwen Code, Hermes.
+
 ## Platforms
 
 ### Claude Code (Anthropic)
