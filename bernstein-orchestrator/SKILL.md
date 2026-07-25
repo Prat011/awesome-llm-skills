@@ -5,14 +5,14 @@ description: Use Bernstein to orchestrate parallel CLI coding agents (Claude Cod
 
 # Bernstein Orchestrator
 
-Bernstein is an open-source multi-agent orchestrator for CLI coding agents. Instead of asking one agent to do everything, you describe the work as a YAML plan with stages and steps; Bernstein spawns short-lived role-scoped agents (manager, backend, frontend, qa, security, devops, architect, docs, reviewer) in parallel git worktrees and reconciles their work through a deterministic Python scheduler. There are no LLM tokens spent on coordination — only on the actual coding tasks.
+Bernstein is an open-source multi-agent orchestrator for CLI coding agents. Instead of asking one agent to do everything, you describe the work as a YAML plan with stages and steps; Bernstein spawns short-lived role-scoped agents (manager, backend, frontend, qa, security, devops, architect, docs, reviewer) in parallel git worktrees and reconciles their work through a deterministic Python scheduler. There are no LLM tokens spent on coordination, only on the actual coding tasks.
 
 ## When to Use This Skill
 
 - You have a multi-step project that benefits from parallel execution (e.g. backend + frontend + tests + docs).
-- You want to compare or combine output from multiple CLI coding agents (Claude Code, Codex CLI, Gemini CLI, Aider, OpenHands, Cursor, Goose, Qwen, Ollama, and 28 more) on the same codebase.
+- You want to compare or combine output from multiple CLI coding agents (Claude Code, Codex CLI, Gemini CLI, Aider, OpenHands, Cursor, Goose, Qwen, Ollama, and 40+ more) on the same codebase.
 - You need quality gates, cost tracking with budgets, or HMAC-signed audit logs around an autonomous coding run.
-- You want to expose orchestration to another LLM via MCP — Bernstein ships a first-class MCP server (`bernstein_run`, `bernstein_status`, `bernstein_tasks`, `bernstein_approve`, `bernstein_cost`, `load_skill`, etc.).
+- You want to expose orchestration to another LLM via MCP. Bernstein ships a first-class MCP server (`bernstein_run`, `bernstein_status`, `bernstein_tasks`, `bernstein_approve`, `bernstein_cost`, `load_skill`, etc.).
 
 ## What This Skill Does
 
@@ -72,7 +72,7 @@ bernstein_tasks(status="open")
 bernstein_approve(task_id="t-42")
 ```
 
-To restrict which CLI agents are spawned, set `BERNSTEIN_ADAPTERS=claude,codex,aider` (any subset of the 37 adapters) before `bernstein run`.
+To pin the run to one CLI agent instead of auto-detecting, pass `bernstein run --cli codex` (or export `BERNSTEIN_ADAPTER=codex`). Any of the 40+ registered adapter names is accepted.
 
 ## Example
 
@@ -100,7 +100,7 @@ $ bernstein run plans/avatar.yaml
 - Start with `bernstein run --dry-run plans/foo.yaml` to see the task graph before spawning agents.
 - Set per-stage budgets in the plan (`budget_usd: 1.0`) when you do not trust a particular role yet.
 - The `mcp__bernstein__load_skill` tool exposes role-scoped progressive skill packs so spawned agents only load the docs they need.
-- Pair with `using-git-worktrees` from this list — Bernstein already creates one worktree per agent, so do not pre-create them by hand.
+- Pair with `using-git-worktrees` from this list. Bernstein already creates one worktree per agent, so do not pre-create them by hand.
 
 ## Common Use Cases
 
