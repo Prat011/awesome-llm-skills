@@ -212,6 +212,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing.
 By [Infrasity-Labs](https://github.com/Infrasity-Labs)
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source collection of 28 Claude Code skills for SEO, GEO, Google Ads, and Meta Ads workflows. Live Search Console and ad-account access is available through optional hosted NotFair MCP connections.
+By [nowork-studio](https://github.com/nowork-studio)
 
 ## Platforms
 
