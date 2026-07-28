@@ -1,7 +1,6 @@
 ---
 name: browser-act
 description: "Use BrowserAct when an AI agent needs authenticated browser automation, JS-rendered extraction, screenshots, parallel sessions, verification handling, or human handoff."
-allowed-tools: Bash(browser-act:*)
 metadata:
   author: BrowserAct
   version: "2.0.2"
