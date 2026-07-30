@@ -151,6 +151,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
+- [aigent-OS](https://github.com/wrg32786/aigent-os) - Open-source operating system for Claude Code — persistent memory in an Obsidian vault, an /open + /close session rhythm, and a layer of subagents, hooks, and background daemons maintaining priorities, decisions, and delegation across sessions. Markdown + shell, no database or server. MIT. *By [@wrg32786](https://github.com/wrg32786)*
 
 ### Data & Analysis
 
