@@ -155,6 +155,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 ### Data & Analysis
 
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
+- [Fact-Check-X](https://github.com/ASI2030/Fact-Check-X/tree/main/skills/fact-check-x-complete) - Captures raw answers and citations from one or more AI platforms, compares atomic claims, verifies them against authoritative sources, and generates standalone HTML reports. *By [@ASI2030](https://github.com/ASI2030)*
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger.
 
