@@ -100,7 +100,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
    * **Claude (web or Desktop):** Upload a ZIP via **Settings → Capabilities → Skills** → **Upload skill**. 
    * **Claude Code (terminal):** Place the folder under `.claude/skills/` (project) or `~/.claude/skills/` (user). Claude Code discovers skills from these locations.
-   * **Other CLIs (Codex, Gemini, OpenCode, Qwen Code):** They don't use Anthropic's Skills format natively—reference your `SKILL.md` in prompts (Gemini CLI supports `@` file/context attachments).
+   * **Codex CLI:** Place the folder under `.agents/skills/` (project) or `~/.agents/skills/` (user). Codex discovers `SKILL.md` files automatically.
+   * **Other CLIs (Gemini, OpenCode, Qwen Code):** Reference your `SKILL.md` in prompts (Gemini CLI supports `@` file/context attachments).
   
 5. **Use it**
    Just ask in natural language, optionally mentioning the skill by name—for example:
@@ -118,6 +119,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
 - [Taisly Agent Kit](https://github.com/taisly/agent) - Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper) - Uses Xquik for X data, exports, monitoring, webhooks, and publishing through REST or MCP. *By [@Xquik-dev](https://github.com/Xquik-dev)* Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ### Document Processing
 
@@ -235,9 +237,12 @@ By [Infrasity-Labs](https://github.com/Infrasity-Labs)
 
 **Set‑up and enable skills**
 
-* OpenAI's Codex powers GitHub Copilot and can be accessed via CLI tools for code generation and automation.
-* While Codex doesn't natively support Anthropic's Skills format, you can adapt skills by including instructions in your prompts or configuration files.
-* Best for code completion, refactoring, and generating boilerplate code across multiple programming languages.
+* Put project Skills in `.agents/skills/<skill-name>/`.
+* Put user Skills in `~/.agents/skills/<skill-name>/`.
+* Include a `SKILL.md` file in each Skill folder.
+* Start Codex inside the repository. It scans from the current directory to the root.
+* Run `/skills` or type `$` to invoke a Skill explicitly.
+* Codex can also select Skills from their frontmatter descriptions.
 
 ### Gemini CLI (Google)
 
@@ -290,6 +295,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Creating Custom Skills](https://support.claude.com/en/articles/12512198-creating-custom-skills) - Skill development guide
 - [Skills API Documentation](https://docs.claude.com/en/api/skills-guide) - API integration guide
 - [Agent Skills Blog Post](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Engineering deep dive
+- [Building Skills for Codex](https://learn.chatgpt.com/docs/build-skills) - Author and load Skills in Codex.
 
 ### Community Resources
 
