@@ -193,6 +193,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Raffle Winner Picker](./raffle-winner-picker/) - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
+- [hermes-llmwiki](https://github.com/chancelu/hermes-llmwiki) - Karpathy-native local Markdown wiki memory provider for Hermes Agent. Zero-infrastructure 3-layer architecture (Raw → Chronicle → Compiled), bidirectional read/write, Obsidian-compatible vault, schema-driven. PyPI: `pip install hermes-llmwiki`.
 
 ### Collaboration & Project Management
 
