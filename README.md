@@ -117,6 +117,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
+- [Talivia Agent Kit](https://github.com/talivia-group/agent) - Installs and verifies revenue-first website analytics through Talivia with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
 - [Taisly Agent Kit](https://github.com/taisly/agent) - Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
 
 ### Document Processing
