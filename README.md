@@ -202,6 +202,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Security & Systems
 
+- [authsome](https://github.com/agentrhq/authsome) - Local credential broker for AI agents. Log in once via OAuth2 or API key, encrypted vault stores credentials, local proxy injects them at request time so agents never see the raw values. 45 providers bundled.
 - [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/computer-forensics) - Digital forensics analysis and investigation techniques.
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
