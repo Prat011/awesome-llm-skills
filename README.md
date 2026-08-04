@@ -129,8 +129,10 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Development & Code Tools
 
+- [apple-container](https://github.com/sanjay3290/ai-skills/tree/main/skills/apple-container) - Build, run, and manage OCI containers as lightweight per-container VMs on Apple-silicon macOS using Apple's open-source container CLI, no Docker daemon required. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
+- [azure-devops](https://github.com/sanjay3290/ai-skills/tree/main/skills/azure-devops) - Full Azure DevOps integration with 99 tools across 13 domains including projects, work items, repos, PRs, and pipelines. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) - A Claude Code plugin for specification-driven development that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration and dual-model adversarial review. *By [@JuliusBrussee](https://github.com/JuliusBrussee)*
 - [Changelog Generator](./changelog-generator/) - Automatically creates user-facing changelogs from git commits by analyzing history and transforming technical commits into customer-friendly release notes.
 - [codebase-recon](https://github.com/yujiachen-y/codebase-recon-skill) - Analyzes git history to reveal codebase hotspots, bug magnets, bus factor risks, team momentum, and development patterns before reading any code. *By [@yujiachen-y](https://github.com/yujiachen-y)*
@@ -138,7 +140,9 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [dRPC Agent Skills](https://github.com/drpcorg/drpc-agent-skills) - Gives any LLM coding agent read access to EVM and Solana chains through DRPC. Fetch balances, decode contract state, estimate gas, pull logs. *By [@drpcorg](https://github.com/drpcorg)*
 - [FFUF Web Fuzzing](https://github.com/jthack/ffuf_claude_skill) - Integrates the ffuf web fuzzer so Claude can run fuzzing tasks and analyze results for vulnerabilities. *By [@jthack](https://github.com/jthack)*
 - [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) - Guides completion of development work by presenting clear options and handling chosen workflow.
+- [grok-build](https://github.com/sanjay3290/ai-skills/tree/main/skills/grok-build) - Delegate well-specified implementation tasks to xAI's Grok Build CLI running headlessly, with plans, task specs, and diff reviews owned by the orchestrating agent. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) - Enables Claude to interact with iOS Simulator for testing and debugging iOS applications. *By [@conorluddy](https://github.com/conorluddy)*
+- [jules](https://github.com/sanjay3290/ai-skills/tree/main/skills/jules) - Delegate coding tasks to Google Jules AI agent for async bug fixes, documentation, and tests. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent development orchestration platform coordinating 22 specialized agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers. Works across Claude Code, Codex, and Gemini CLI. *By [@josstei](https://github.com/josstei)*
 - [MCP Builder](./mcp-builder/) - Guides creation of high-quality MCP (Model Context Protocol) servers for integrating external APIs and services with LLMs using Python or TypeScript.
 - [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) - Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.
@@ -155,6 +159,11 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 ### Data & Analysis
 
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
+- [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) - Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis and literature reviews. *By [@sanjay3290](https://github.com/sanjay3290)*
+- [manus](https://github.com/sanjay3290/ai-skills/tree/main/skills/manus) - Delegate complex tasks to Manus AI agent for deep research, market analysis, and comprehensive reports. *By [@sanjay3290](https://github.com/sanjay3290)*
+- [mssql](https://github.com/sanjay3290/ai-skills/tree/main/skills/mssql) - Execute safe read-only SQL queries against Microsoft SQL Server databases with query validation security. *By [@sanjay3290](https://github.com/sanjay3290)*
+- [mysql](https://github.com/sanjay3290/ai-skills/tree/main/skills/mysql) - Execute safe read-only SQL queries against MySQL databases with session-level write protection. *By [@sanjay3290](https://github.com/sanjay3290)*
+- [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch queries, and structured exports. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger.
 
@@ -175,10 +184,14 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [Meeting Insights Analyzer](./meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
 - [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
+- [telegram](https://github.com/sanjay3290/ai-skills/tree/main/skills/telegram) - Send Telegram messages, files, and alerts via bot API; ask questions with inline buttons and wait for the answer, enabling approvals from your phone in hooks, cron jobs, and CI. *By [@sanjay3290](https://github.com/sanjay3290)*
+- [whatsapp](https://github.com/sanjay3290/ai-skills/tree/main/skills/whatsapp) - Send and receive WhatsApp messages from Python as a linked companion device, with QR pairing, text and images, groups, read receipts, and a live JSON event stream. *By [@sanjay3290](https://github.com/sanjay3290)*
 
 ### Creative & Media
 
 - [Canvas Design](./canvas-design/) - Creates beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles for posters, designs, and static pieces.
+- [elevenlabs](https://github.com/sanjay3290/ai-skills/tree/main/skills/elevenlabs) - Text-to-speech narration and two-host podcast generation from documents using ElevenLabs API. *By [@sanjay3290](https://github.com/sanjay3290)*
+- [google-tts](https://github.com/sanjay3290/ai-skills/tree/main/skills/google-tts) - Text-to-speech narration and podcast generation using Google Cloud TTS with Neural2, WaveNet, and Studio voices. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [Image Enhancer](./image-enhancer/) - Improves image and screenshot quality by enhancing resolution, sharpness, and clarity for professional presentations and documentation.
 - [Slack GIF Creator](./slack-gif-creator/) - Creates animated GIFs optimized for Slack with validators for size constraints and composable animation primitives.
@@ -196,7 +209,10 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Collaboration & Project Management
 
+- [atlassian](https://github.com/sanjay3290/ai-skills/tree/main/skills/atlassian) - Manage Jira issues and Confluence wiki pages in Atlassian Cloud with JQL/CQL search, issue updates, and page authoring via REST or MCP backends. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
+- [google-workspace](https://github.com/sanjay3290/ai-skills/tree/main/skills) - Suite of Google Workspace integrations: Gmail, Calendar, Chat, Docs, Sheets, Slides, and Drive with cross-platform OAuth. *By [@sanjay3290](https://github.com/sanjay3290)*
+- [outline](https://github.com/sanjay3290/ai-skills/tree/main/skills/outline) - Search, read, create, and manage documents in Outline wiki instances. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
 
