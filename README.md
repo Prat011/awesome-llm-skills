@@ -297,6 +297,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
+- [Vexilo · A field guide to Claude Code](https://vexilo.app/?lang=en) — Visual interactive index of 31 agents · 99 commands · 123 skills · 13 rules, organized around the 5-step workflow. One-click "Teach Claude this handbook" feeds the whole guide into a local session in 30 seconds. ([companion repo](https://github.com/lilhawk7077/claude-code-resources))
 
 ## License
 
