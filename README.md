@@ -119,6 +119,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
 - [Taisly Agent Kit](https://github.com/taisly/agent) - Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
 
+- [BuyWhere Product Search](./buywhere-product-search/) - Real-time product search and price comparison across 11M+ products in Shopee, Lazada, Amazon, Walmart, and 20+ retailers in Singapore, SEA, and US.
+
 ### Document Processing
 
 - [docx](https://github.com/anthropics/skills/tree/main/document-skills/docx) - Create, edit, analyze Word docs with tracked changes, comments, formatting.
