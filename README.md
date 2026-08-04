@@ -28,6 +28,7 @@
 
 ## Contents
 
+- [BytesAgain](https://bytesagain.com) - Search 60,000+ AI agent skills. MCP SSE + REST API. Supports 7 languages. Free. `https://bytesagain.com/api/mcp/sse`
 - [What Are LLM Skills?](#what-are-llm-skills)
 - [Quick Start](#quick-start)
 - [Skills](#skills)
