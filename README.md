@@ -295,6 +295,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, content repurposing, and audience growth
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
 
