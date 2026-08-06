@@ -151,7 +151,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
-- [Suede Creator Skills](https://jasoncolapietro.github.io/suede-creator-skills/) - 23-skill pack for Claude Code and Codex: agent orchestration with WIP collision detection and rollback trees, a Codex CLI worker fleet, code review with an A-F ship grade across 7 evidence-backed lanes, AI eval scaffolding, plus design, copy, and SEO/AEO/AI-EO audits. MIT licensed. *By [@JasonColapietro](https://github.com/JasonColapietro)*
+- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) - 71-skill pack for Claude Code and Codex: multi-agent orchestration, a Codex CLI worker fleet, code review with an A-F ship grade, AI eval scaffolding, CI gates, plus design, copy, and SEO/AEO/GEO audits. MIT licensed. *By [@JasonColapietro](https://github.com/JasonColapietro)*
 
 ### Data & Analysis
 
