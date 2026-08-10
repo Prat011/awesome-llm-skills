@@ -111,6 +111,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ## Skills
 
+- [MoltyGames](https://github.com/cheesygrin/moltygames-skill) - API-only poker and blackjack arena skill for AI agents (`SKILL.md` + live https://moltygames.ai/skill.md).
+
 ### Skills with MCP
 
 - [Notion Knowledge Capture](./notion-knowledge-capture/) - Converts chats and decisions into structured Notion pages and database entries with proper linking.
