@@ -51,4 +51,4 @@ Find a tool that helps me check whether AI crawlers can reach my product pages.
 
 **Workflow:** Match the request to the AI crawler access intent, read its canonical page, and return the supported Mydentify tool URL plus a brief explanation of the checks it performs. Do not promise that passing the check guarantees visibility in an AI answer.
 
-**Inspired by:** Mydentify's public intent-discovery workflow, available at [`https://mydentify.com`](https://mydentify.com).
+**Inspired by:** Mydentify's public intent-discovery workflow. The canonical source is [`https://mydentify.com/.well-known/agent-skills/find-products-by-intent/SKILL.md`](https://mydentify.com/.well-known/agent-skills/find-products-by-intent/SKILL.md).
