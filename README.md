@@ -151,7 +151,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
-- [big-jump](https://github.com/Felixfeng-0820/big-jump) - Agent Skill that turns a vague idea into a verified first release: routes web/API/CLI/data/library/mobile projects, maps every claim to stack-appropriate evidence, protects existing user work, and coaches beginners. Atomic installer, self-validation, evals, CI, bilingual docs. *By [@Felixfeng-0820](https://github.com/Felixfeng-0820)*
+- [big-jump](https://github.com/LysanderPhong/big-jump) - Agent Skill that turns a vague idea into a verified first release: routes web/API/CLI/data/library/mobile projects, maps every claim to stack-appropriate evidence, protects existing user work, and coaches beginners. Atomic installer, self-validation, evals, CI, bilingual docs. *By [@LysanderPhong](https://github.com/LysanderPhong)*
 
 ### Data & Analysis
 
