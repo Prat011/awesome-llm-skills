@@ -297,6 +297,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
+- [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - Learning hub of agent skills for Claude Code, Codex, and Cursor, plus notebooks and papers.
 
 ## License
 
