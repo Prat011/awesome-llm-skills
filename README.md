@@ -184,6 +184,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Slack GIF Creator](./slack-gif-creator/) - Creates animated GIFs optimized for Slack with validators for size constraints and composable animation primitives.
 - [Theme Factory](./theme-factory/) - Applies professional font and color themes to artifacts including slides, docs, reports, and HTML landing pages with 10 pre-set themes.
 - [Video Downloader](./video-downloader/) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival with support for various formats and quality options.
+- [Video Router](./video-router/) - Routes a video brief to generation, composition, editing, or an end-to-end workflow before production begins. Inspired by [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio).
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 
 ### Productivity & Organization
