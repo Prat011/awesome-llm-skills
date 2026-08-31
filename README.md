@@ -126,6 +126,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [pptx](https://github.com/anthropics/skills/tree/main/document-skills/pptx) - Read, generate, and adjust slides, layouts, templates.
 - [xlsx](https://github.com/anthropics/skills/tree/main/document-skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [Markdown to EPUB Converter](https://github.com/smerchek/claude-epub-skill) - Converts markdown documents and chat summaries into professional EPUB ebook files. *By [@smerchek](https://github.com/smerchek)*
+- [Verify Citations](./document-skills/verify-citations/) - Verify citations and references resolve and support claims; flag unsupported claims; recompute arithmetic. Uses Stipple (free tier).
+- [Verify Document Authenticity](./document-skills/verify-document/) - Forensic document verification: risk band + per-signal evidence for tampering on payslips, invoices, statements, IDs. Uses Stipple (free tier).
 
 ### Development & Code Tools
 
