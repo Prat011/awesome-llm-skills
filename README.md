@@ -121,6 +121,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Document Processing
 
+- [Document Quality Review](https://github.com/sandbaseai/awesome-workbuddy/tree/main/skills/document-quality-review) - Reviews Markdown, Word, PDF, spreadsheet, and presentation deliverables for factual support, internal consistency, usability, and rendered quality. *By [@sandbaseai](https://github.com/sandbaseai)*
 - [docx](https://github.com/anthropics/skills/tree/main/document-skills/docx) - Create, edit, analyze Word docs with tracked changes, comments, formatting.
 - [pdf](https://github.com/anthropics/skills/tree/main/document-skills/pdf) - Extract text, tables, metadata, merge & annotate PDFs.
 - [pptx](https://github.com/anthropics/skills/tree/main/document-skills/pptx) - Read, generate, and adjust slides, layouts, templates.
