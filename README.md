@@ -166,6 +166,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- [Product Manager OS](https://github.com/Sidsaladi9/persona-os) - 53 product management skills spanning discovery, user research, strategy, planning, specs, metrics and go-to-market, each grounded in the standard reference on its topic. Adds a memory that keeps product, team and decision context between sessions, plus a weekly loop that drafts the missing skill from work you repeat. Every skill scored out of 100 in CI. *By [@Sidsaladi9](https://github.com/Sidsaladi9)*
 
 ### Communication & Writing
 
