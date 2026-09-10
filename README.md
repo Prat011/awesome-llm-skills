@@ -199,6 +199,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
+- [YYLO Skills](https://github.com/yylo-dev/yylo-skills) - Reusable agent skills for Claude Code, Codex, and Pi: YYLO Ledger task management with source-of-truth boundaries, durable Markdown knowledge as revisioned Ledger Records, and executing exactly one assigned task through validated delivery. *By [@yylo-dev](https://github.com/yylo-dev)*
 
 ### Security & Systems
 
