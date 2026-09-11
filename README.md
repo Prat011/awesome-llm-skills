@@ -126,6 +126,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [pptx](https://github.com/anthropics/skills/tree/main/document-skills/pptx) - Read, generate, and adjust slides, layouts, templates.
 - [xlsx](https://github.com/anthropics/skills/tree/main/document-skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [Markdown to EPUB Converter](https://github.com/smerchek/claude-epub-skill) - Converts markdown documents and chat summaries into professional EPUB ebook files. *By [@smerchek](https://github.com/smerchek)*
+- [cue-omni-reader](https://github.com/sensedeal/cue-skills/tree/main/cue-omni-reader) - Web pages (including in-page video/attachments) plus authorized local documents, audio, or video to Markdown. Install: `npx skills add sensedeal/cue-skills --skill cue-omni-reader` (MIT; may bill).
 
 ### Development & Code Tools
 
