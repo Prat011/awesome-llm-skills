@@ -113,6 +113,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Skills with MCP
 
+- [Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin) - Offers agent-native backend services for hosting, Postgres, email, storage, containers, LLMs, voice, and third-party APIs, with no-signup setup through MCP or API, free tiers, $5/month in AI and Search credits, and x402 top-ups.
 - [Notion Knowledge Capture](./notion-knowledge-capture/) - Converts chats and decisions into structured Notion pages and database entries with proper linking.
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
