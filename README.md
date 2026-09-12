@@ -151,6 +151,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
+- [UI Design Agent Kit](https://github.com/muzimu217/ui-design-agent-kit) - End-to-end UI design workflow for coding agents: turns plain-language requests into a frozen plan and design contract (semantic tokens, do/don't rules, spring motion presets), scouts licensed material from a 32-source verified inspiration library, implements the interface, and verifies it in a real browser with screenshot evidence. Ships 11 demo products, two playable online. *By [@muzimu217](https://github.com/muzimu217)*
 
 ### Data & Analysis
 
