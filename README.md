@@ -186,6 +186,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Video Downloader](./video-downloader/) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival with support for various formats and quality options.
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 
+- [i-hate-editing](https://github.com/ranahaani/i-hate-editing) - Turns raw talking-head footage into a finished cut with local whisper.cpp + ffmpeg; the model reads the transcript, never the pixels. *By [@ranahaani](https://github.com/ranahaani)*
+
 ### Productivity & Organization
 
 - [File Organizer](./file-organizer/) - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
