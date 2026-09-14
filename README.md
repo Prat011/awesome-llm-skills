@@ -193,6 +193,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Raffle Winner Picker](./raffle-winner-picker/) - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
+- [job-application-agent](https://github.com/vaibhavarora14/job-application-agent) - Privacy-first Agent Skill + CLI for discovering, qualifying, completing, and tracking your own job applications using verified résumé facts and confirmed-submission ledgers. *By [@vaibhavarora14](https://github.com/vaibhavarora14)*
 
 ### Collaboration & Project Management
 
