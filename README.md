@@ -251,6 +251,8 @@ By [Infrasity-Labs](https://github.com/Infrasity-Labs)
 **Set‑up and enable skills**
 
 * Install OpenCode with a one‑line script: `curl -fsSL https://opencode.ai/install | bash`.
+* [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 * Run `opencode auth login` and choose your provider (e.g., Cerebras) to configure your API key.
 * Start the interface with `opencode` and initialize your project context using `/init`.
 * OpenCode doesn't natively load Anthropic skills, but you can place a `skills/` folder in your project and ask OpenCode to read the `SKILL.md` file; this approximates skills functionality and lets you reuse instructions across tools.
