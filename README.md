@@ -212,6 +212,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing.
 By [Infrasity-Labs](https://github.com/Infrasity-Labs)
+- [howseen-geo-skills](https://github.com/howseen-ai/howseen-geo-skills) - Ten skills to check and improve AI visibility (GEO): llms.txt, AI crawler and citation checks, buyer questions, schema, retrievability. Works with Claude Code, Codex, Cursor and 75+ agents. *By [Howseen](https://github.com/howseen-ai)*
 
 ## Platforms
 
