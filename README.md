@@ -118,6 +118,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
 - [Taisly Agent Kit](https://github.com/taisly/agent) - Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
+- [Sudoku100 API Skill](https://github.com/sudoku100com-create/Sudoku-generate-API/tree/main/skill) - Generate, embed, and solve Sudoku puzzles from any Claude Code / Codex / Gemini CLI session via a free no-auth API plus a paired MCP server. Works in 41 languages, returns PNG/WebP/SVG/JPG, deterministic by ID.
 
 ### Document Processing
 
