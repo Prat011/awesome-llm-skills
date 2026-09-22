@@ -136,10 +136,12 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [codebase-recon](https://github.com/yujiachen-y/codebase-recon-skill) - Analyzes git history to reveal codebase hotspots, bug magnets, bus factor risks, team momentum, and development patterns before reading any code. *By [@yujiachen-y](https://github.com/yujiachen-y)*
 - [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) - Teaches Claude to produce D3 charts and interactive data visualizations. *By [@chrisvoncsefalvay](https://github.com/chrisvoncsefalvay)*
 - [dRPC Agent Skills](https://github.com/drpcorg/drpc-agent-skills) - Gives any LLM coding agent read access to EVM and Solana chains through DRPC. Fetch balances, decode contract state, estimate gas, pull logs. *By [@drpcorg](https://github.com/drpcorg)*
+- [esl-price-sync](https://github.com/wwewtech/esl-price-sync) - Electronic Shelf Labels (ESL) retail pricing synchronizer, transmission queue auditor, and checksum integrity verifier. *By [@wwewtech](https://github.com/wwewtech)*
 - [FFUF Web Fuzzing](https://github.com/jthack/ffuf_claude_skill) - Integrates the ffuf web fuzzer so Claude can run fuzzing tasks and analyze results for vulnerabilities. *By [@jthack](https://github.com/jthack)*
 - [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) - Guides completion of development work by presenting clear options and handling chosen workflow.
 - [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) - Enables Claude to interact with iOS Simulator for testing and debugging iOS applications. *By [@conorluddy](https://github.com/conorluddy)*
 - [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent development orchestration platform coordinating 22 specialized agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers. Works across Claude Code, Codex, and Gemini CLI. *By [@josstei](https://github.com/josstei)*
+- [marlin-bed-leveling](https://github.com/wwewtech/marlin-bed-leveling) - Marlin 2.x 3D printer bed leveling assistant, mesh topology analyzer, probe repeatability verifier, and G-code calibration auditor. *By [@wwewtech](https://github.com/wwewtech)*
 - [MCP Builder](./mcp-builder/) - Guides creation of high-quality MCP (Model Context Protocol) servers for integrating external APIs and services with LLMs using Python or TypeScript.
 - [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) - Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.
 - [Playwright Browser Automation](https://github.com/lackeyjb/playwright-skill) - Model-invoked Playwright automation for testing and validating web applications. *By [@lackeyjb](https://github.com/lackeyjb)*
@@ -154,7 +156,9 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Data & Analysis
 
+- [chatexport-need-miner](https://github.com/wwewtech/chatexport-need-miner) - Offline Telegram chat export data miner for JTBD product discovery, customer intent extraction, and willingness-to-pay signal clustering. *By [@wwewtech](https://github.com/wwewtech)*
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
+- [oneroster-csv-validator](https://github.com/wwewtech/oneroster-csv-validator) - 1EdTech / IMS Global OneRoster 1.1/1.2 CSV relational validator, cross-table foreign key integrity checker, and roster audit engine. *By [@wwewtech](https://github.com/wwewtech)*
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger.
 
@@ -203,6 +207,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 ### Security & Systems
 
 - [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/computer-forensics) - Digital forensics analysis and investigation techniques.
+- [dali-short-address-commissioner](https://github.com/wwewtech/dali-short-address-commissioner) - IEC 62386 DALI / DALI-2 lighting bus commissioner, 24-bit random collision resolver, and gear addressing auditor. *By [@wwewtech](https://github.com/wwewtech)*
+- [eol-resistor-calculator](https://github.com/wwewtech/eol-resistor-calculator) - Security hardware End-of-Line (EOL/DEOL/TEOL) alarm panel loop resistor calculator, loop voltage divider analyzer, and tamper circuit solver. *By [@wwewtech](https://github.com/wwewtech)*
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [resemble-detect](./resemble-detect/) - Detect deepfakes in audio, image, video, and text with confidence scores, audio source tracing, watermarking, and voice-profile identity verification via the Resemble AI platform.
