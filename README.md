@@ -131,6 +131,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 - [artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
+- [bandaid](https://github.com/F0Rextasy/bandaid) - Catches symptom-suppression patches in a diff (swallowed errors, removed guards, disabled tests, silenced checkers) and forces root-cause fixes. *By [@F0Rextasy](https://github.com/F0Rextasy)*
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) - A Claude Code plugin for specification-driven development that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration and dual-model adversarial review. *By [@JuliusBrussee](https://github.com/JuliusBrussee)*
 - [Changelog Generator](./changelog-generator/) - Automatically creates user-facing changelogs from git commits by analyzing history and transforming technical commits into customer-friendly release notes.
 - [codebase-recon](https://github.com/yujiachen-y/codebase-recon-skill) - Analyzes git history to reveal codebase hotspots, bug magnets, bus factor risks, team momentum, and development patterns before reading any code. *By [@yujiachen-y](https://github.com/yujiachen-y)*
@@ -151,6 +152,20 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
+- [aitell](https://github.com/F0Rextasy/aitell) - Deterministic AI-tell prose detector: 11 rules, published confusion matrix, CI fails if accuracy drops below the published number. Fully offline, stdlib only. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [cigate](https://github.com/F0Rextasy/cigate) - GitHub Actions waste gate: unpinned actions, missing path filters, duplicate jobs, minute budget from a local `gh api` capture. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [ci-triage](https://github.com/F0Rextasy/ci-triage) - Classifies a red CI run as regression, flaky, or infra from the log alone, with evidence-linked exit codes. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [compressproof](https://github.com/F0Rextasy/compressproof) - Reversible context compression proven in CI: SHA-256 byte-exact round-trip plus N/N needle-question answer oracle against a full-text baseline. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [docproof](https://github.com/F0Rextasy/docproof) - Parses every fenced code block in your docs with per-language checkers so examples never rot. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [dsh-gate](https://github.com/F0Rextasy/dsh-gate) - Shell gate that blocks dangerous command shapes before they run. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [preflight](https://github.com/F0Rextasy/preflight) - Pre-push gate: runs the checks that matter before you waste a CI minute. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [prove-it](https://github.com/F0Rextasy/prove-it) - Turns a claim in prose into a runnable proof harness with pass/fail exit codes. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [route-drift](https://github.com/F0Rextasy/route-drift) - OpenAPI spec vs code routes drift gate: missing implementation, undocumented route, method mismatch, each with file:line evidence. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [sessionaudit](https://github.com/F0Rextasy/sessionaudit) - Session policy gate: audits agent sessions against committed rules. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [shipcheck](https://github.com/F0Rextasy/shipcheck) - Release checklist gate: nothing ships unchecked. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [testgate](https://github.com/F0Rextasy/testgate) - Test-selection gate: runs the tests that can actually fail for a change, skips the rest. *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [uigate](https://github.com/F0Rextasy/uigate) - Measurable design-slop lint: WCAG contrast math on literal colors plus disclosed AI-template tells (gradient, card grid, boilerplate). *By [@F0Rextasy](https://github.com/F0Rextasy)*
+- [wincompat](https://github.com/F0Rextasy/wincompat) - Windows compatibility gate for cross-platform scripts and CLIs. *By [@F0Rextasy](https://github.com/F0Rextasy)*
 
 ### Data & Analysis
 
