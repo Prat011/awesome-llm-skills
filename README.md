@@ -183,6 +183,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Image Enhancer](./image-enhancer/) - Improves image and screenshot quality by enhancing resolution, sharpness, and clarity for professional presentations and documentation.
 - [Slack GIF Creator](./slack-gif-creator/) - Creates animated GIFs optimized for Slack with validators for size constraints and composable animation primitives.
 - [Theme Factory](./theme-factory/) - Applies professional font and color themes to artifacts including slides, docs, reports, and HTML landing pages with 10 pre-set themes.
+- [UpRes](https://github.com/auroracapital/upres-cli) - AI image and video upscaler to 8K resolution across 14 public model aliases with batch processing, REST API, and Model Context Protocol (MCP) server support. *By [@auroracapital](https://github.com/auroracapital)*
 - [Video Downloader](./video-downloader/) - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival with support for various formats and quality options.
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetch transcripts from YouTube videos and prepare summaries.
 
