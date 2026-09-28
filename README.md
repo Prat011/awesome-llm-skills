@@ -155,6 +155,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 ### Data & Analysis
 
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. *By [@coffeefuelbump](https://github.com/coffeefuelbump)*
+- [Jev Social](https://github.com/socai-io/jev-social/tree/v0.1.10/skills/jev-social) - Runs read-only Instagram, TikTok, and LinkedIn research through the user's local Chrome session; Jev chooses bounded actions, socai captures posts, comments, and media, and the skill returns source-linked evidence and a cited report. *By [@socai-io](https://github.com/socai-io)*
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger.
 
