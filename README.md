@@ -193,6 +193,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Raffle Winner Picker](./raffle-winner-picker/) - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
+- [agent-skills-en](https://github.com/alapha888/agent-skills-en) - Five English productivity skills for everyday knowledge work: meeting notes to structured minutes, a five-axis code review checklist, a deep research framework, technical-writing proofreading, and conventional commit messages. *By [@alapha888](https://github.com/alapha888)*
 
 ### Collaboration & Project Management
 
