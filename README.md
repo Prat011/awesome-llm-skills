@@ -198,6 +198,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
+- [session-handoff](https://github.com/alapha888/session-handoff-kit) - MIT kit (SKILL.md skill, context hygiene checklist, and handoff template) that structures AI coding-session endings into a verified handoff, capturing decisions, open loops, and one concrete next action, so the next session resumes without context loss.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
 
 ### Security & Systems
