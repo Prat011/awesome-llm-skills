@@ -264,6 +264,15 @@ By [Infrasity-Labs](https://github.com/Infrasity-Labs)
 
 
 
+### OpenAmer (Open-source desktop agent)
+
+**Set‑up and enable skills**
+
+* Install the OpenAmer runtime on Windows (repo: https://github.com/openamer/openamer) and start it — the agent discovers skills from `skills/<name>/SKILL.md` automatically.
+* Ask for a task in natural language; matching skills activate from their front-matter `description`, and recurring workflows can be saved back as new skills.
+* Skills use the same `SKILL.md` structure (name + description front matter, then instructions), so they are reusable across OpenAmer's CLI, desktop app, and messaging channels.
+
+
 ## Contributing
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on:
