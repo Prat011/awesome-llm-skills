@@ -167,6 +167,11 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
 
+- [moooai/takeout-coupon](https://github.com/moooai/takeout-coupon) - Fetches food-delivery coupons for Meituan, Ele.me/Taobao Shangou and JD Waimai; returns promo codes, claim links and QR codes
+- [moooai/trip-coupon](https://github.com/moooai/trip-coupon) - Travel coupons: Didi ride-hailing bundles and hotel deals from Meituan, Tongcheng and Fliggy
+- [moooai/movie-coupon](https://github.com/moooai/movie-coupon) - Movie ticket coupons from Taopiaopiao and Maoyan, with claim links and QR codes
+- [moooai/parcel-coupon](https://github.com/moooai/parcel-coupon) - Courier coupons for SF Express, ZTO, YTO, Yunda, STO and Cainiao
+- [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) - All-in-one coupon fetcher covering takeout, travel, movie and parcel coupons
 ### Communication & Writing
 
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
