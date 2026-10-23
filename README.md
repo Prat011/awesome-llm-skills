@@ -207,6 +207,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [resemble-detect](./resemble-detect/) - Detect deepfakes in audio, image, video, and text with confidence scores, audio source tracing, watermarking, and voice-profile identity verification via the Resemble AI platform.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
+- [bounty-guard](https://github.com/doomsday-network/bounty-guard) - Security firewall skill and MCP server protecting autonomous coding agents from prompt-injection honeypots, bot-trap blocklists, and unescrowed GitHub bounties.
+- [doomsday-proof-of-escrow](https://github.com/doomsday-network/doomsday/tree/main/integrations/skills) - Cryptographic Proof-of-Escrow verification skill and MCP server for auditing on-chain bounty collateral on Base Mainnet and Doomsday L1 before writing code.
 
 ### Developer Marketing Skills
 
