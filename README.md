@@ -160,6 +160,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Business & Marketing
 
+- [ai-agency-os-starter](https://github.com/CalebAnderson-Coder/ai-agency-os-starter) - Agency client-ops skills (client-workspace, scope-guard, offer-builder, cold-email-agency) with a per-client folder template and a worked scope-creep example. Plain SKILL.md, works in Claude Code and Codex.
 - [Brand Guidelines](./brand-guidelines/) - Applies Anthropic's official brand colors and typography to artifacts for consistent visual identity and professional design standards.
 - [buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill) - Structured, evidence-based B2B software vendor evaluation skill. Engages vendor AI agents, scores vendors across 7 dimensions with transparent evidence tracking, and produces comparative scorecards with demo prep questions. Useful for procurement, RFP evaluation, and build-vs-buy decisions. *By [@salespeak-ai](https://github.com/salespeak-ai)*
 - [Competitive Ads Extractor](./competitive-ads-extractor/) - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
