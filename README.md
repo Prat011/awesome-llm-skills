@@ -129,6 +129,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Development & Code Tools
 
+- [agy-claude-crash-guard-kit](https://github.com/jashory/agy-claude-crash-guard-kit) - Prevents and diagnoses HTTP 400 INVALID_ARGUMENT crashes, encrypted PDF trajectory poisoning, and infinite stop-hook loops across Claude Code, Codex, and multi-agent workflows. *By [@jashory](https://github.com/jashory)*
 - [artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) - A Claude Code plugin for specification-driven development that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration and dual-model adversarial review. *By [@JuliusBrussee](https://github.com/JuliusBrussee)*
@@ -138,6 +139,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [dRPC Agent Skills](https://github.com/drpcorg/drpc-agent-skills) - Gives any LLM coding agent read access to EVM and Solana chains through DRPC. Fetch balances, decode contract state, estimate gas, pull logs. *By [@drpcorg](https://github.com/drpcorg)*
 - [FFUF Web Fuzzing](https://github.com/jthack/ffuf_claude_skill) - Integrates the ffuf web fuzzer so Claude can run fuzzing tasks and analyze results for vulnerabilities. *By [@jthack](https://github.com/jthack)*
 - [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) - Guides completion of development work by presenting clear options and handling chosen workflow.
+- [infinite-llm-fallback-router](https://github.com/jashory/infinite-llm-fallback-router) - Zero-dependency multi-provider LLM fallback router with exponential backoff, health scoring, and local proxy routing for autonomous agents. *By [@jashory](https://github.com/jashory)*
 - [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) - Enables Claude to interact with iOS Simulator for testing and debugging iOS applications. *By [@conorluddy](https://github.com/conorluddy)*
 - [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent development orchestration platform coordinating 22 specialized agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers. Works across Claude Code, Codex, and Gemini CLI. *By [@josstei](https://github.com/josstei)*
 - [MCP Builder](./mcp-builder/) - Guides creation of high-quality MCP (Model Context Protocol) servers for integrating external APIs and services with LLMs using Python or TypeScript.
@@ -204,6 +206,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 - [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/computer-forensics) - Digital forensics analysis and investigation techniques.
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
+- [mcp-agent-security-auditor](https://github.com/jashory/mcp-agent-security-auditor) - Audits Model Context Protocol (MCP) server configs, agent hooks, and SKILL.md files for prompt injection, dangerous shell execution, and credential leaks. *By [@jashory](https://github.com/jashory)*
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [resemble-detect](./resemble-detect/) - Detect deepfakes in audio, image, video, and text with confidence scores, audio source tracing, watermarking, and voice-profile identity verification via the Resemble AI platform.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
