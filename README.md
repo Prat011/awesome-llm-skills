@@ -210,6 +210,9 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Developer Marketing Skills
 
+- [taste-skill](https://github.com/WuDao0123/taste-skill) - Reverse-engineer any website URL or UI screenshot into a zero-hallucination design system `SKILL.md` (exact hex tokens, WCAG contrast ratios, typography scale, and anti-AI-slop rules) plus programmatic SEO & growth playbooks for Claude Code, OpenAI Codex, Cursor, and Windsurf.
+By [WuDao0123](https://github.com/WuDao0123)
+
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing.
 By [Infrasity-Labs](https://github.com/Infrasity-Labs)
 
