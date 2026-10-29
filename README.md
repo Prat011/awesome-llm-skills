@@ -207,6 +207,8 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [resemble-detect](./resemble-detect/) - Detect deepfakes in audio, image, video, and text with confidence scores, audio source tracing, watermarking, and voice-profile identity verification via the Resemble AI platform.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
+- [mcp-agent-security-auditor](https://github.com/jashory/mcp-agent-security-auditor) - Zero-dependency Python AST taint and static security scanner for MCP servers and AI agent skills (OWASP LLM01-LLM10, SARIF v2.1.0).
+- [agy-claude-crash-guard-kit](https://github.com/jashory/agy-claude-crash-guard-kit) - Pre-flight multimodal binary firewall and self-healing JSONL trajectory surgeon that prevents and repairs permanent HTTP 400 session crashes in Claude Code, Codex, and Antigravity.
 
 ### Developer Marketing Skills
 
