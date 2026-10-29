@@ -165,6 +165,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Competitive Ads Extractor](./competitive-ads-extractor/) - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
+- [jsoncrm](https://github.com/pauling-ai/jsoncrm) - Operates a CRM stored as plain JSON files in git — search, scoring, and promote/demote with dry-run previews; teaches agents the CLI house rules alongside the first-party MCP server. *By [@tordable](https://github.com/tordable)*
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
 
 ### Communication & Writing
