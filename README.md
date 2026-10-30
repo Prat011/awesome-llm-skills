@@ -179,6 +179,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 ### Creative & Media
 
 - [Canvas Design](./canvas-design/) - Creates beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles for posters, designs, and static pieces.
+- [DESIGN:OS](https://github.com/jangtrinh/design-os/tree/main/skills/design-os) - Design CLI skill for Claude Code, Codex, Gemini CLI and Antigravity: 12+ design skills (UI, tokens, components, screens) with deterministic verification gates. Free, source-available (PolyForm Shield). *By [@jangtrinh](https://github.com/jangtrinh)*
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets. *By [@sanjay3290](https://github.com/sanjay3290)*
 - [Image Enhancer](./image-enhancer/) - Improves image and screenshot quality by enhancing resolution, sharpness, and clarity for professional presentations and documentation.
 - [Slack GIF Creator](./slack-gif-creator/) - Creates animated GIFs optimized for Slack with validators for size constraints and composable animation primitives.
