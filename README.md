@@ -113,6 +113,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Skills with MCP
 
+- [CurlShot](https://github.com/SergiuPogor/curlshot-mcp) - Takes screenshots of public web pages and renders HTML or Markdown to PNG, JPEG, WebP, PDF or scrolling video, with an Agent Skill, Claude Code plugin, Gemini CLI extension and hosted remote MCP server (API key required, free plan available).
 - [Notion Knowledge Capture](./notion-knowledge-capture/) - Converts chats and decisions into structured Notion pages and database entries with proper linking.
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
