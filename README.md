@@ -118,6 +118,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
 - [Taisly Agent Kit](https://github.com/taisly/agent) - Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
+- [CommentKeyword Instagram Toolkit](https://github.com/commentkeyword/instagram-mcp-server) - Plans a Reel's "Comment KEYWORD" CTA and sets up the Instagram DM it promises, with an Agent Skill, a Claude Code plugin, an MCP server, and a Remotion comment-to-DM end card.
 
 ### Document Processing
 
