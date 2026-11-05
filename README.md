@@ -118,6 +118,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
 - [Taisly Agent Kit](https://github.com/taisly/agent) - Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
+- [LurkAPI Research Skills](https://github.com/mesmerlord/lurkapi-claude-plugin) - Social media research on live public data: brand snapshots, ad library teardowns across Meta, Google, LinkedIn and TikTok, Reddit research, creator vetting, video transcripts and demand research, through LurkAPI's remote MCP server or its REST API. *By [@mesmerlord](https://github.com/mesmerlord)*
 
 ### Document Processing
 
