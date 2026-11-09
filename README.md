@@ -113,6 +113,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Skills with MCP
 
+- [AdMakeAI](https://github.com/mesmerlord/admakeai-agent-skills) - Designs ad images, UGC-style video ads and ad copy for your brand, looks up competitors' live ads in the Meta Ad Library, and drafts and reports on Meta campaigns through AdMakeAI's remote MCP server, confirming before anything spends credits or touches a Meta ad account. *By [@mesmerlord](https://github.com/mesmerlord)*
 - [Notion Knowledge Capture](./notion-knowledge-capture/) - Converts chats and decisions into structured Notion pages and database entries with proper linking.
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
