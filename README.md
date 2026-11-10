@@ -210,6 +210,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Developer Marketing Skills
 
+- [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - A free Claude Code plugin that audits sites, checks links, plans content, and adds schema. MIT license.
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing.
 By [Infrasity-Labs](https://github.com/Infrasity-Labs)
 
