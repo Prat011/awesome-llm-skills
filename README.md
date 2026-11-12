@@ -129,6 +129,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Development & Code Tools
 
+- [APEX Twin Engine Suite](https://github.com/phanvietanh102/apex-twin-suite) - Symmetric twin-engine skill suite for Greenfield idea-to-product development (idea-to-product-apex) and Brownfield forensic workspace auditing (product-workspace-reviewer-apex) with Dual-Mode elicitation, 6-role C-Suite red-teaming, 7 industry playbooks, and Python verification scripts. *By [@phanvietanh102](https://github.com/phanvietanh102)*
 - [artifacts-builder](https://github.com/anthropics/skills/tree/main/artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) - A Claude Code plugin for specification-driven development that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration and dual-model adversarial review. *By [@JuliusBrussee](https://github.com/JuliusBrussee)*
