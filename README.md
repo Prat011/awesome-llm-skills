@@ -296,6 +296,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
+- [HowAI](https://howai.build) - Library of 450+ agent skills for websites, slide decks, images and video, with example output and install steps for Claude Code, Codex, Cursor and more
 - [Notion Skills](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Notion integration skills
 
 ## License
@@ -305,3 +306,4 @@ This repository is licensed under the Apache License 2.0.
 Individual skills may have different licenses - please check each skill's folder for specific licensing information.
 
 ---
+
