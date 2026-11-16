@@ -189,6 +189,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 ### Productivity & Organization
 
 - [File Organizer](./file-organizer/) - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
+- [Inbox Envoy](https://github.com/salespeak-ai/inbox-envoy) - Lets your own AI agent screen cold pitches in your inbox, starting read-only. Current release is v0.1.0-beta.3. *By [@salespeak-ai](https://github.com/salespeak-ai)*
 - [Invoice Organizer](./invoice-organizer/) - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
 - [Raffle Winner Picker](./raffle-winner-picker/) - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
