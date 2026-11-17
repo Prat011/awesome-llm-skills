@@ -169,6 +169,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Communication & Writing
 
+- [Arabic Writing](https://github.com/a-khalid/arabic-writing-skill) - Proofreads and edits Arabic text: spelling, grammar, punctuation, structure review, and rhetorical rewriting. *By [@a-khalid](https://github.com/a-khalid)*
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
 - [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transform rough ideas into fully-formed designs through structured questioning and alternative exploration.
 - [Content Research Writer](./content-research-writer/) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, and providing section-by-section feedback.
