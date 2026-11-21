@@ -202,6 +202,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Security & Systems
 
+- [clawvet](https://github.com/MohibShaikh/clawvet) - Offline static and Tree-sitter AST security scanner for AI agent skills (`SKILL.md`), rules, Claude Code hooks, and MCP configs, with rug-pull update permission diffs and a client-side WASM playground.
 - [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/computer-forensics) - Digital forensics analysis and investigation techniques.
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
