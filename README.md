@@ -293,6 +293,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ### Community Resources
 
+
+- **[Dayan Enterprise AI Skills (66 Pack)](https://github.com/Kosmoray/dayan-enterprise-ai-skills)** - 66 battle-tested enterprise `SKILL.md` workflows covering anti-AI-slop editing, executive HTML dashboards, rubric-scored proposals, 4-angle contract audit, and guardrail RAG design.
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
