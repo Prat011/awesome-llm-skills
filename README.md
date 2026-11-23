@@ -117,6 +117,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
 - [Notion Spec To Implementation](./notion-spec-to-implementation/) - Turns Notion specs into task plans with acceptance criteria and progress tracking.
+- [Levea AI Video Editor](https://github.com/brajendrak00068/agentic-ai-video-production) - Turns natural-language prompts or long recordings into finished videos with viral clips, 200+ animated caption templates, 9:16 speaker reframing, silence cleanup, B-roll, motion graphics, and cloud MP4 export through the Levea MCP server.
 - [Taisly Agent Kit](https://github.com/taisly/agent) - Publishes approved short-form videos through Taisly with a reusable Agent Skill, Codex plugin, CLI, and remote MCP server.
 
 ### Document Processing
