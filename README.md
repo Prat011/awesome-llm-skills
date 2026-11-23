@@ -167,6 +167,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
 
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-skills/tree/main/skills/skool-communities) - Search Skool communities by keyword for members, price, rating, and daily growth.
 ### Communication & Writing
 
 - [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
