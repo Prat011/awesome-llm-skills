@@ -113,6 +113,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Skills with MCP
 
+- [LogBrew Skills](https://github.com/LogBrewCo/skills) - Application monitoring skills for any coding agent. Finds why production broke from the error, stack trace, logs, and trace in LogBrew, adds error tracking to an app, checks a release after a deploy, and answers product analytics questions through a remote MCP server or CLI.
 - [Notion Knowledge Capture](./notion-knowledge-capture/) - Converts chats and decisions into structured Notion pages and database entries with proper linking.
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
