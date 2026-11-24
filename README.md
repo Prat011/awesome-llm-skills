@@ -166,6 +166,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- [Parallel AI for Google Ads](https://github.com/parallel-ai-inc/google-ads-skills) - 13 free Google Ads Agent Skills for Claude Code, Codex, Cursor, and Gemini CLI covering account audits, search terms & negative keywords, conversion tracking, budget pacing, bidding, Performance Max, Search campaign builds, client reporting, and Google's read-only Google Ads MCP server with deterministic local Python 3 scripts. *By [@parallel-ai-inc](https://github.com/parallel-ai-inc)*
 
 ### Communication & Writing
 
