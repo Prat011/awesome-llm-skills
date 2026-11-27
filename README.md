@@ -175,6 +175,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [Meeting Insights Analyzer](./meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
 - [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
+- [paper-audit](https://github.com/Tomsabay/academic-deai-audit) - Zero-dependency deterministic Chinese/English academic de-AI auditor and rewrite guardrail skill (`.docx`/`.tex`/`.md`/`.txt`) checking AI cliché density, burstiness, and number/citation/language preservation. *By [@Tomsabay](https://github.com/Tomsabay)*
 
 ### Creative & Media
 
