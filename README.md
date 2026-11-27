@@ -113,6 +113,7 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 
 ### Skills with MCP
 
+- [Cowork MCP](https://github.com/slashman413/cowork) - Self-hosted, local-first multi-agent task queue and Streamable HTTP MCP hub (`/mcp`) for Claude Code, Codex, Gemini CLI, and Hermes with rate-limit fallback chains and isolated git worktrees (v1.0.3, MIT).
 - [Notion Knowledge Capture](./notion-knowledge-capture/) - Converts chats and decisions into structured Notion pages and database entries with proper linking.
 - [Notion Meeting Intelligence](./notion-meeting-intelligence/) - Preps meetings from Notion context and creates internal pre-reads plus external agendas.
 - [Notion Research Documentation](./notion-research-documentation/) - Searches Notion, synthesizes multiple pages, and writes cited research docs back to Notion.
